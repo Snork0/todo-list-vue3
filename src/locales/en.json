@@ -1,0 +1,13 @@
+{
+  "createItem": "Create a task",
+  "createList": "Create a list",
+  "create": "Create",
+  "name": "Name",
+  "description": "Description",
+  "deadline": "Deadline",
+  "add": "Add",
+  "all": "All",
+  "active": "Active",
+  "done": "Completed",
+  "todoLists": "Todo lists"
+}

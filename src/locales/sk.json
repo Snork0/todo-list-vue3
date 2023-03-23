@@ -1,0 +1,13 @@
+{
+  "createItem": "Vytvorte úlohu",
+  "createList": "Vytvorte list",
+  "create": "Vytvoriť",
+  "name": "Názov",
+  "description": "Popis",
+  "deadline": "Deadline",
+  "add": "Pridať",
+  "all": "Všetky",
+  "active": "Aktívne",
+  "done": "Dokončené",
+  "todoLists": "Zoznam Todo listov"
+}
